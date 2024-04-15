@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Algorithms and Data Structures
 
 ## Recording
-This lesson is intended to be given asynchronously. You may view the assigned recording [here]().
+This lesson is intended to be given asynchronously. You may view the assigned recording [here](https://youtu.be/F1X3syx7Jdg).
 
 
 ## Learning Objectives
